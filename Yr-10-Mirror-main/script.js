@@ -1,5 +1,5 @@
 const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbw1EWli5lAQsObQA47T-OpwAjkXAFSgLcqqf7nCN5zjoEoNMPuA4FmsGSHHN9tKhJhj-w/exec";
-const CLASSROOM_LINK = "https://classroom.google.com/c/NzQ5MDQxMzk4MjAz";
+const CLASSROOM_LINK = "https://classroom.google.com/c/NzkzNDk4NzYwODgw";
 
 const synth = window.speechSynthesis;
 let voices = [];
